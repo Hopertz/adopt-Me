@@ -1,0 +1,7 @@
+VS-Code Prettier Format On Save doesn't work
+
+CTRL + SHIFT + P
+Format Document (in pop-up bar)
+Select Format Document
+Select Configure Default Formatter... 
+Select Prettier - Code formatter
